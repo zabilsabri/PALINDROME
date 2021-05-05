@@ -1,6 +1,6 @@
 __foundby__ = "zabilsabri"
 
-#Jika huruf katanya dibalik hurufnya akan sama
+#Jika huruf dari katanya dibalik maka hurufnya akan sama
 
 kata = str(input("MASUKKA KATA: "))
 
